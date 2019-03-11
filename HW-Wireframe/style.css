@@ -25,10 +25,13 @@ nav{
 section{
     background-color:#ebebeb;
     width: 495px;
-    height: 250px;
+    height: 220px;
     margin-right: 10px;
     padding-top: 30px;
     padding-left: 30px;
+    
+    
+   
     
  
 }    
@@ -38,7 +41,7 @@ section{
 aside{
     background-color:#ebebeb;
     width: 415px;
-    height: 250px;
+    height: 220px;
     margin-left: 10px;
     padding-top: 30px;
 }
@@ -50,9 +53,10 @@ aside{
 article{
     background-color:#777;
     color: #ebebeb;
-    padding: 20px;
-    margin-top: 40px;
-    margin-right: 30px;
+    padding: 10px;
+    margin-top: 30px;
+    margin-right: 10px;
+    margin-left: -20px;
    
 }
 
