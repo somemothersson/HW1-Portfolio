@@ -21,6 +21,9 @@ nav{
     margin-bottom: 20px;
     
 }
+.main{
+    float: left;
+}
 
 section{
     background-color:#ebebeb;
@@ -29,9 +32,7 @@ section{
     padding: 20px;
     margin-right: 10px; 
 }    
-.main{
-    float: left;
-}
+
 aside{
     background-color:#ebebeb;
     width: 365px;
