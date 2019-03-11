@@ -25,25 +25,20 @@ nav{
 section{
     background-color:#ebebeb;
     width: 495px;
-    height: 220px;
-    margin-right: 10px;
-    padding-top: 30px;
-    padding-left: 30px;
-    
-    
-   
-    
- 
+    height: 200px;
+    padding: 20px;
+    margin-right: 10px; 
 }    
 .main{
     float: left;
 }
 aside{
     background-color:#ebebeb;
-    width: 415px;
-    height: 220px;
+    width: 365px;
+    height: 200px;
+    padding: 20px;
     margin-left: 10px;
-    padding-top: 30px;
+    
 }
 
 .clearfix{
@@ -55,8 +50,7 @@ article{
     color: #ebebeb;
     padding: 10px;
     margin-top: 30px;
-    margin-right: 10px;
-    margin-left: -20px;
+    margin-right: 5px;
    
 }
 
@@ -64,14 +58,12 @@ h1, h2, h3, p{
     background-color: #ebebeb;
     color: #777;
     padding: 10px;
-    overflow: auto;
-    margin:10px;
+    margin: 10px;
     
 }
 
 footer{
     background-color: #ebebeb;
     padding: 2em;
-    clear: both;
     margin-top: 20px;
 }
