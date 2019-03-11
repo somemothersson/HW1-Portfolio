@@ -27,6 +27,8 @@ section{
     width: 495px;
     height: 250px;
     margin-right: 10px;
+    padding-top: 30px;
+    padding-left: 30px;
  
 }    
 .main{
@@ -34,9 +36,10 @@ section{
 }
 aside{
     background-color:#ebebeb;
-    width: 445px;
+    width: 415px;
     height: 250px;
     margin-left: 10px;
+    padding-top: 30px;
 }
 
 .clearfix{
