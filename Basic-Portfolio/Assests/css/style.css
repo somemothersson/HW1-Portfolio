@@ -30,6 +30,9 @@ header::after{
 
 .logo{
     float: left;
+    background-color: #4aaaa5;
+    color: #fff;
+    padding: 1em;
     
 }
 
@@ -109,6 +112,7 @@ h1, hr{
 .gallery a{
     width: 100px;
     margin: 10px;
+    border-radius: 4px;
     
     
 
@@ -120,10 +124,11 @@ h1, hr{
 .gallery figure figcaption{
     position: relative;
     text-align: center;
-    background-color: #777;
-    color: #fff;
-    
-    margin: 10px;
+    background-color: #4aaaa5;
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border-radius: 4px;
 
 }
 
