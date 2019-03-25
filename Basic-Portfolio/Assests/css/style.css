@@ -21,6 +21,7 @@ header{
    
 
 }
+/* Code from tutorial BEGIN - albeit modified for my purposes*/
 header::after{
     content: '';
     display: table;
@@ -80,6 +81,7 @@ nav a:hover::before{
     width: 100%;
 
 }
+/* Code from tutorial END - albeit modified for my purposes*/
 section{
     width: 960px;
     margin: 0 auto;
