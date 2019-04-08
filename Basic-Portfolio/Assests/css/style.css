@@ -108,6 +108,7 @@ h1, hr{
 }
 .gallery {
     display: flex;
+    flex-wrap: wrap;
     /* justify-content: center; */
 
 }
@@ -197,7 +198,7 @@ input[type=submit]:hover {
  
 
 footer{
-    position: absolute;
+    /* position: absolute; */
     right: 0;
     bottom: 0;
     left: 0;
